@@ -5,7 +5,7 @@ export default {
   name: "New Job Event",
   version: "0.0.1",
   key: "visualping-new-job-event",
-  description: "Emit new event for each new job event.",
+  description: "Emit a new event for each new job event.",
   type: "source",
   dedupe: "unique",
   props: {
